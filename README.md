@@ -1,5 +1,5 @@
 <h1 align="center">
-    Programming Çanguage Paradigms (PLP)
+    Programming Language Paradigms (PLP)
 </h1>
 <p align="center"> Computer Science | UFLA 💻✔️ </p>
 
