@@ -12,9 +12,6 @@ registros	no	prontuário
     ● exibe_prontuario,	que	exibe	todos	os	procedimentos	armazenados	na	lista	de	procedimentos.	Cada	posição	da	lista	terá	um	dicionário	com	as	informações	de	um	procedimento	armazenado. Veja	o	caso	de	teste	neste documento	para	definir	o	formato	de	saída	deste	método.
 '''
 
-import medicamento from Medicamento
-import medico from Medico
-
 class Prontuario:
     
     #constructor
@@ -30,4 +27,4 @@ class Prontuario:
 
         self.__lista.objects.append(self)
 
-    def existe_procedimento(self):
+    def exibe_procedimento(self):
