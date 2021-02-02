@@ -22,6 +22,7 @@ Activities developed in the discipline of Programming Çanguage Paradigms (PLP)
 The following tools were used:
 
 - Python
+- Jupyter
 
 <h2 id="author"> 💻 Author </h2>
 
